@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#ffffff</color>
+
+    <color name="primaryDarkColor">#323232</color>
+    <color name="primaryColor">#484848</color>
+    <color name="accentColor">#F87652</color>
+
+    <color name="background_footer_item_grid_categorias">#90000000</color>
+
+    <color name="color_light">#ffffff</color>
+
+    <color name="background_header_seccion_inicio">#4B4B4B</color>
+
+    <color name="bg">#dee4ee</color>
+    <color name="txtFechaHistory">#dea14d</color>
+    <color name="colorNormalMini">#6293d2</color>
+    <color name="colorPressedMini">#2f578b</color>
+    colorPressedMini
+</resources>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#dee4ee"
+    android:orientation="vertical"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:padding="15dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        >
+
+        <ImageView
+            android:id="@+id/imageViewDetail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="30"
+            android:layout_marginBottom="28dp"
+            android:scaleType="fitXY"/>
+
+        <com.melnykov.fab.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="bottom|right"
+            android:src="@mipmap/edit_18dp"
+            fab:fab_colorNormal="@color/colorNormalMini"
+            fab:fab_colorPressed="@color/colorPressedMini"
+            fab:fab_colorRipple="@color/colorNormalMini"
+            android:layout_marginLeft="16dp"
+            fab:fab_type="mini"
+            android:layout_marginBottom="8dp"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txtTituloDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="8dp"
+        android:text="CDHYF I - Juego de Tronos [Lujo]"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_margin="10dp"/>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardUseCompatPadding="true">
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:padding="15dp"
+            android:rowCount="4">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="20dp"
+                android:layout_marginRight="32dp"
+                android:src="@drawable/euro" />
+
+            <TextView
+                android:id="@+id/txtPvpDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="20dp"
+                android:hint=" 30.95 €"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="32dp"
+                android:src="@drawable/units" />
+
+            <TextView
+                android:id="@+id/textoUnitsDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:hint=" 6230 unidades"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+            <RatingBar
+                android:id="@+id/ratingBarDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="false"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="32dp"
+                android:layout_marginTop="20dp"
+                style= "@style/CustomRatingBar"
+                android:numStars="10"
+                android:stepSize="0.01"
+                android:isIndicator="true"/>
+
+            <TextView
+                android:id="@+id/lblRatingDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="20dp"
+                android:hint=" 8.9"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+
+
+
+
+
+        </GridLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <TextView
+        android:id="@+id/titulo_contrasena"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="20dp"
+        android:text="Description"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="2dp"
+        card_view:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+
+            <TextView
+                android:id="@+id/txtDescDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:hint="Loremipsn"
+                android:scrollbars="vertical"
+                android:lines="3"
+                android:maxLines="8"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,372 @@
+
+
+{
+
+
+    "Books" : [
+
+    		   {
+               "titulo" : "CDHYF - El Mundo de Hielo y Fuego" ,
+               "descripcion" : "Una visita ilustrada a los Siete Reinos y al mundo de Juego de tronos. El mundo de hielo y fuego es un trabajo de documentación titánico que abarca desde la Era del Amanecer hasta la actualidad." ,
+               "imagen" : "/img/Books/MundoHieloFuego.jpg" ,
+               "uds" : 350 ,
+               "precio" : 36.00 ,
+               "rating" : 8.3
+               } ,
+               
+               {
+               "titulo" : "CDHYF I - Juego de Tronos [Lujo]" ,
+               "descripcion" : "Primer Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin." ,
+               "imagen" : "/img/Books/JuegoTronos.jpg",
+               "uds" : 12000 ,
+               "precio" : 38.00 ,
+               "rating" : 8.9
+               } ,
+
+               {
+               "titulo" : "CDHYF II - Choque de Reyes [Lujo]" ,
+               "descripcion" : "Segundo Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin" ,
+               "imagen" : "/img/Books/chokeReyes.jpg" ,
+               "uds" : 147 ,
+               "precio" : 38.00 ,
+               "rating" : 8.5
+               } ,
+
+               {
+               "titulo" : "CDHYF III - Tormentas de Espadas [Lujo]" ,
+               "descripcion" : "Tercer Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin" ,
+               "imagen" : "/img/Books/TormentaSpadas.jpg" ,
+               "uds" : 9500 ,
+               "precio" : 46.00 ,
+               "rating" : 9.8
+               } ,
+
+               {
+               "titulo" : "CDHYF IV - Festin de Cuervos [Lujo]" ,
+               "descripcion" : "Cuarto Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin" ,
+               "imagen" : "/img/Books/FestinCuervos.jpg" ,
+               "uds" : 5100 ,
+               "precio" : 42.00  ,
+               "rating" : 7.3
+               } ,
+
+               {
+               "titulo" : "CDHYF V - Danza de Dragones [Lujo]" ,
+               "descripcion" : "Quinto Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin" ,
+               "imagen" :"/img/Books/DanzaDragones.jpg",
+               "uds" : 6000 ,
+               "precio" : 46.00  ,
+               "rating" : 7.7
+               } 
+
+           ]     
+
+           ,
+
+
+     "Music" : [
+
+        {
+          "titulo" : "Three Dollar Bill, Y'All$" ,
+          "descripcion" : "Primer Disco de la Biografía de Limp Bizkit. [1997]" ,
+          "imagen" : "/img/Music/three_dollar.jpg" ,
+          "uds" : 60 ,
+          "precio" : 19.95  ,
+          "rating" : 7.5
+          } 
+
+          ,
+          
+          {
+          "titulo" : "Significant Other" ,
+          "descripcion" : "Segundo Disco de la Biografía de Limp Bizkit. [1999]" ,
+          "imagen" : "/img/Music/significant_other_a.jpg",
+          "uds" : 60 ,
+          "precio" : 19.95 ,
+          "rating" : 8.4
+          } 
+
+          ,
+
+          {
+          "titulo" : "Chocolate Starfish and the Hot Dog Flavored Water" ,
+          "descripcion" : "Tercer Disco, y el mejor de la historia, de la Biografía de Limp Bizkit. [2000]" ,
+          "imagen" : "/img/Music/hotdog.jpg" ,
+          "uds" : 320 ,
+          "precio" : 29.00 ,
+          "rating" : 10.0
+          } 
+
+          ,
+
+          {
+          "titulo" : "New Old Songs" ,
+          "descripcion" : "Cuarto disco, y primero de Recopilaciones, de la Biografía de Limp Bizkit. [2001]" ,
+          "imagen" : "/img/Music/newolds.jpg" ,
+          "uds" : 103 ,
+          "precio" : 17.95 ,
+          "rating" : 9.0
+          } 
+
+          ,
+
+          {
+          "titulo" : "Results May Vary" ,
+          "descripcion" : "Quinto Disco de la Biografía de Limp Bizkit. [2003]" ,
+          "imagen" : "/img/Music/result.jpg" ,
+          "uds" : 20 ,
+          "precio" : 15.95 ,
+          "rating" : 6.2
+          } 
+
+          ,
+
+          {
+          "titulo" : "2011 - Gold Cobra" ,
+          "descripcion" : "Sexto Disco, después de casi 10 años, de la Biografía de Limp Bizkit. [2011]" ,
+          "imagen" :"/img/Music/gold.jpg",
+          "uds" : 17 ,
+          "precio" : 15.95 ,
+          "rating" : 5.2
+          } 
+
+      ]  
+      
+      ,       
+
+     "Games" : [          
+
+          {
+          "titulo" : "The Last of Us [Remastered]" ,
+          "descripcion" : "Versión remasterizada para PlayStation 4 de The Last of Us, el gran videojuego creado por Naughty Dog. Joel y Ellie, los protagonistas de esta emocionante e intensa aventura de acción y supervivencia, debutan en la consola de sobremesa de Sony con todos sus contenidos descargables y gráficos mejorados a 1080p. Al igual que el original, TLoU es un juego emocionante, intenso y cargado de emociones fuertes en su modo historia o campaña, pero que además cuenta con un multijugador." ,
+          "imagen" : "/img/Games/lastofus.jpg" ,
+          "uds" : 200 ,
+          "precio" : 29.95  ,
+          "rating" : 10.0
+
+          } 
+
+          ,
+
+          {
+          "titulo" : "Grand Theft Auto V" ,
+          "descripcion" : "GTA 5 es la quinta entrega de la exitosa saga de videojuegos sandbox desarrollada por Rockstar Games. Con millones de ventas a sus espaldas y uno de los mundos abiertos más ricos hasta la fecha, Grand Theft Auto V transporta al jugador a Los Santos, una extensa y soleada metrópolis en declive que lucha por mantenerse a flote en una era de incertidumbre económica y realities baratos que referencia de una forma paródica a la Los Ángeles de nuestro tiempo. " ,
+          "imagen" : "/img/Games/gtaV.jpg" ,
+          "uds" : 725 ,
+          "precio" : 46.95  ,
+          "rating" : 9.8
+          } 
+
+           ,
+
+          {
+          "titulo" : "Assasins Creed Syndicate" ,
+          "descripcion" : "Assassin's Creed Syndicate es el videojuego de 2015 de la saga estrella de Ubisoft, Assassin's Creed que lleva varios títulos trayéndonos aventuras de acción en mundo abierto protagonizadas por memorables personajes de época. Los héroes en esta ocasión son dos, una pareja de hermanos mellizos de nombre Jacob y Evie Frye, que se mueven en la Londres decimonónica que con tanto acierto ha desarrollado Ubisoft Quebec. El peculiar enfrentamiento entre Assassins y Templarios de esta entrega nos traslada a la impresionante capital británica en el siglo XIX, justo en plena Revolución Industrial. Desde Buckingham Palace a Whitechapel pasando por los túneles subterráneos, el gigantesco mundo abierto del Londres Victoriano es fiel testigo de una revolución histórica, pero también de una revolución de las clases trabajadoras que, de forma clandestina, se organizan en bandas para sobrevivir y luchar por la igualdad en una aventura con muchas misiones de liberación de niños y mujeres poco menos que esclavizados.  " ,
+          "imagen" : "/img/Games/ac_syndicate.jpg" ,
+          "uds" : 120 ,
+          "precio" : 34.95  ,
+          "rating" : 7.6
+          } 
+
+            ,
+
+          {
+          "titulo" : "Assasins Creed Unity" ,
+          "descripcion" : "AEntrega del año 2015 para la popular saga de acción y aventuras Assassin's Creed que, por primera vez, está destinada en exclusiva a la generación de PS4 y Xbox One y que, por supuesto, aparece también en PC. El videojuego se ambienta en el París del siglo XVIII, recreando con todo lujo de detalles escenarios reales como la Catedral de Notre Dame o el río Sena que recorre la capital gala. Assassin's Creed Unity está protagonizado por Arno, un personaje inmerso en la Revolución Francesa que nos permite tomar parte en algunos de los momentos más célebres de ese conocido acontecimiento histórico y alternarlos, al mismo tiempo, con una subtrama amorosa que trufa este videojuego de acción y aventuras con momentos de más calma. No exento de cierta polémica, este episodio de la franquicia de Ubisoft ha sido acusado de salir a la venta antes de tiempo y con escaso pulido, algo que ha sido corregido con abundantes parches hasta la consecución de una versión mucho más estable que permite disfrutar de su campaña individual en un fascinante mundo abierto y, además, de sus interesantes misiones cooperativas que sustituyen al multijugador cooperativo de entregas anteriores.  " ,
+          "imagen" : "/img/Games/ac_unity.jpg" ,
+          "uds" : 41 ,
+          "precio" : 26.95  ,
+           "rating" : 7.0
+          } 
+
+           ,
+
+          {
+          "titulo" : "NBA 2k16" ,
+          "descripcion" : "Completo simulador de baloncesto destinado a la temporada 2015-2016 de la NBA, que trae consigo la consabida mejora gráfica que garantizan año tras año los juegos de 2K Sports, amén de las habituales novedades jugables y una banda sonora de ensueño.  " ,
+          "imagen" : "/img/Games/nba2k16.jpg" ,
+          "uds" : 666 ,
+          "precio" : 26.95   ,
+           "rating" : 9.1
+          } 
+
+          ,
+
+          {
+          "titulo" : "Metal Gear Solid V: The Phantom Pain" ,
+          "descripcion" : "La última aventura de Snake bajo las órdenes de Hideo Kojima, tras la controvertida salida de éste de Konami, se cuenta entre los episodios más arriesgados y potentes de la franquicia de espionaje, ciencia ficción y, ahora, también mundo abierto. Acompañado por personajes como Quiet, Ocelot o el ya entrañable perro, el modo historia nos permite escoger quién deseamos que nos acompañe en sus distintas misiones, puesto que cada uno de los personajes tiene sus habilidades propias. Este The Phantom Pain es, por lo tanto, la quinta entrega de la saga Metal Gear Solid. El videojuego combina la clásica jugabilidad de la serie basada en la acción, el sigilo y una historia realmente trabajada protagonizada por Venom Snake, pero esta vez con elementos propios de un sandbox de grandes dimensiones gracias al motor gráfico Fox Engine. Juego multijugador adicional a la campaña y un prólogo denominado Metal Gear Solid V: Ground Zeroes lanzado ya como videojuego independiente, dan forma a este ambicioso lanzamiento que no ha dejado indiferente a nadie tanto por su desarrollo como por su controvertido desenlace." ,
+          "imagen" : "/img/Games/mgsV.jpg" ,
+          "uds" : 3000 ,
+          "precio" : 26.95   ,
+           "rating" : 9.2
+          } 
+
+           ,
+
+          {
+          "titulo" : "Uncharted 4: A Thief's End" ,
+          "descripcion" : "El aventurero Nathan Drake regresa en esta nueva aventura para PlayStation 4, desde Naughty Dog prometen que es la que cierra las aventuras del conocido buscador de tesoros que se ha convertido en todo un abanderado de los exclusivos de consolas PlayStation. Con El Desenlace de un Ladrón se busca mejorar todo lo visto en la trilogía original de la serie Uncharted con el héroe en una situación límite una vez más que, en esta ocasión, incluye en un rol capital a su hermano Sam, una de las grandes novedades de la cuarta entrega y un punto de mucha importancia a la hora de ahondar en el fascinante pasado de este auténtico Indiana Jones de los videojuegos. Acción, aventuras y plataformas con ritmo cinematográfico de manos de los creadores de The Last of Us y Crash Bandicoot, entre muchos otros, que promete elevar el listón de espectacularidad de los juegos anteriores con un sinfín de escenas de ritmo trepidante dispuestas a llevarnos al límite en tiroteos, acrobacias y secuencias de plataformas. No faltan a su cita unos rompecabezas que pondrán a prueba nuestra capacidad para 'darle al coco', ni tampoco algunas ideas y mecánicas jugables nuevas como el hecho de que podemos escoger qué dice el héroe en algunos diálogos. " ,
+          "imagen" : "/img/Games/uncharted_4.jpg" ,
+          "uds" : 7100 ,
+          "precio" : 59.95   ,
+           "rating" : 9.9
+          } 
+
+            ,
+
+          {
+          "titulo" : "Uncharted: Nathan Drake Collection" ,
+          "descripcion" : "Recopilación para PlayStation 4 de los tres videojuegos de Uncharted protagonizados por Nathan Drake en PlayStation 3. Los juegos funcionan en PS4 a una resolución de 1080p y 60 imágenes por segundo, contando con mejoras de iluminación, texturas y modelado sobre los juegos originales. " ,
+          "imagen" : "/img/Games/uncharted.jpg" ,
+          "uds" : 61 ,
+          "precio" : 44.95   ,
+           "rating" : 9.3
+          } 
+
+          ,
+
+          {
+          "titulo" : "God of War 3 [Remastered]" ,
+          "descripcion" : "Remasterización en 1080 y 60 frames por segundo de God of War 3, el juego original de PlayStation 3. Ambientado en la Grecia de la mitología clásica, el tercer capítulo de la saga God of War describe el ascenso de Kratos a las alturas del monte Olimpo en busca de una venganza, alimentada por el ardor de su ira contra los que le han traicionado. " ,
+          "imagen" : "/img/Games/god3.jpg" ,
+          "uds" : 100 ,
+          "precio" : 34.95   ,
+           "rating" : 9.6
+          } 
+
+          ,
+
+          {
+          "titulo" : "Heavy Rain" ,
+          "descripcion" : "Remasterización en 1080 y 60 frames por segundo de God of War 3, el juego original de PlayStation 3. Ambientado en la Grecia de la mitología clásica, el tercer capítulo de la saga God of War describe el ascenso de Kratos a las alturas del monte Olimpo en busca de una venganza, alimentada por el ardor de su ira contra los que le han traicionado. " ,
+          "imagen" : "/img/Games/heavy_rain.jpg" ,
+          "uds" : 201 ,
+          "precio" : 34.95   ,
+           "rating" : 9.8
+          } 
+          
+       ] 
+ 			,
+
+ 	"Films" : [     
+
+ 		{
+          "titulo" : "Suicide Squad" ,
+          "descripcion" : "Remasterización en 1080 y 60 frames por segundo de God of War 3, el juego original de PlayStation 3. Ambientado en la Grecia de la mitología clásica, el tercer capítulo de la saga God of War describe el ascenso de Kratos a las alturas del monte Olimpo en busca de una venganza, alimentada por el ardor de su ira contra los que le han traicionado. " ,
+         "imagen" : "/img/Films/ssquad.jpg" ,
+          "uds" : 100 ,
+          "precio" : 34.95   ,
+           "rating" : 7.5
+          } 
+
+          ,     
+
+
+          {
+          "titulo" : "Inception" ,
+          "descripcion" : "GTA 5 es la quinta entrega de la exitosa saga de videojuegos sandbox desarrollada por Rockstar Games. Con millones de ventas a sus espaldas y uno de los mundos abiertos más ricos hasta la fecha, Grand Theft Auto V transporta al jugador a Los Santos, una extensa y soleada metrópolis en declive que lucha por mantenerse a flote en una era de incertidumbre económica y realities baratos que referencia de una forma paródica a la Los Ángeles de nuestro tiempo. " ,
+         "imagen" : "/img/Films/inception.jpg" ,
+          "uds" : 725 ,
+          "precio" : 46.95  ,
+          "rating" : 9.4
+          } 
+
+           ,
+
+          {
+          "titulo" : "Interstellar" ,
+          "descripcion" : "Assassin's Creed Syndicate es el videojuego de 2015 de la saga estrella de Ubisoft, Assassin's Creed que lleva varios títulos trayéndonos aventuras de acción en mundo abierto protagonizadas por memorables personajes de época. Los héroes en esta ocasión son dos, una pareja de hermanos mellizos de nombre Jacob y Evie Frye, que se mueven en la Londres decimonónica que con tanto acierto ha desarrollado Ubisoft Quebec. El peculiar enfrentamiento entre Assassins y Templarios de esta entrega nos traslada a la impresionante capital británica en el siglo XIX, justo en plena Revolución Industrial. Desde Buckingham Palace a Whitechapel pasando por los túneles subterráneos, el gigantesco mundo abierto del Londres Victoriano es fiel testigo de una revolución histórica, pero también de una revolución de las clases trabajadoras que, de forma clandestina, se organizan en bandas para sobrevivir y luchar por la igualdad en una aventura con muchas misiones de liberación de niños y mujeres poco menos que esclavizados.  " ,
+          "imagen" : "/img/Films/interstellar.jpg" ,
+          "uds" : 120 ,
+          "precio" : 34.95  ,
+          "rating" : 9.7
+          } 
+
+            ,
+
+          {
+          "titulo" : "The Wolf of Wall Street" ,
+          "descripcion" : "AEntrega del año 2015 para la popular saga de acción y aventuras Assassin's Creed que, por primera vez, está destinada en exclusiva a la generación de PS4 y Xbox One y que, por supuesto, aparece también en PC. El videojuego se ambienta en el París del siglo XVIII, recreando con todo lujo de detalles escenarios reales como la Catedral de Notre Dame o el río Sena que recorre la capital gala. Assassin's Creed Unity está protagonizado por Arno, un personaje inmerso en la Revolución Francesa que nos permite tomar parte en algunos de los momentos más célebres de ese conocido acontecimiento histórico y alternarlos, al mismo tiempo, con una subtrama amorosa que trufa este videojuego de acción y aventuras con momentos de más calma. No exento de cierta polémica, este episodio de la franquicia de Ubisoft ha sido acusado de salir a la venta antes de tiempo y con escaso pulido, algo que ha sido corregido con abundantes parches hasta la consecución de una versión mucho más estable que permite disfrutar de su campaña individual en un fascinante mundo abierto y, además, de sus interesantes misiones cooperativas que sustituyen al multijugador cooperativo de entregas anteriores.  " ,
+          "imagen" : "/img/Films/lobo.jpg" ,
+          "uds" : 41 ,
+          "precio" : 26.95  ,
+           "rating" : 9.0
+          } 
+
+           ,
+
+          {
+          "titulo" : "Mad Max - Fury on the Road" ,
+          "descripcion" : "Completo simulador de baloncesto destinado a la temporada 2015-2016 de la NBA, que trae consigo la consabida mejora gráfica que garantizan año tras año los juegos de 2K Sports, amén de las habituales novedades jugables y una banda sonora de ensueño.  " ,
+          "imagen" : "/img/Films/madmax.jpg" ,
+          "uds" : 666 ,
+          "precio" : 26.95   ,
+           "rating" : 7.7
+          } 
+
+          ,
+
+          {
+          "titulo" : "Memento" ,
+          "descripcion" : "La última aventura de Snake bajo las órdenes de Hideo Kojima, tras la controvertida salida de éste de Konami, se cuenta entre los episodios más arriesgados y potentes de la franquicia de espionaje, ciencia ficción y, ahora, también mundo abierto. Acompañado por personajes como Quiet, Ocelot o el ya entrañable perro, el modo historia nos permite escoger quién deseamos que nos acompañe en sus distintas misiones, puesto que cada uno de los personajes tiene sus habilidades propias. Este The Phantom Pain es, por lo tanto, la quinta entrega de la saga Metal Gear Solid. El videojuego combina la clásica jugabilidad de la serie basada en la acción, el sigilo y una historia realmente trabajada protagonizada por Venom Snake, pero esta vez con elementos propios de un sandbox de grandes dimensiones gracias al motor gráfico Fox Engine. Juego multijugador adicional a la campaña y un prólogo denominado Metal Gear Solid V: Ground Zeroes lanzado ya como videojuego independiente, dan forma a este ambicioso lanzamiento que no ha dejado indiferente a nadie tanto por su desarrollo como por su controvertido desenlace." ,
+          "imagen" : "/img/Films/memento.jpg" ,
+          "uds" : 3000 ,
+          "precio" : 26.95   ,
+           "rating" : 9.5
+          } 
+
+           ,
+
+         {
+          "titulo" : "Batman V Superman" ,
+          "descripcion" : "Versión remasterizada para PlayStation 4 de The Last of Us, el gran videojuego creado por Naughty Dog. Joel y Ellie, los protagonistas de esta emocionante e intensa aventura de acción y supervivencia, debutan en la consola de sobremesa de Sony con todos sus contenidos descargables y gráficos mejorados a 1080p. Al igual que el original, TLoU es un juego emocionante, intenso y cargado de emociones fuertes en su modo historia o campaña, pero que además cuenta con un multijugador." ,
+          "imagen" : "/img/Films/bvs.jpg" ,
+          "uds" : 200 ,
+          "precio" : 29.95  ,
+          "rating" : 7.0
+
+          } 
+
+          ,
+
+          {
+          "titulo" : "The Godfather" ,
+          "descripcion" : "El aventurero Nathan Drake regresa en esta nueva aventura para PlayStation 4, desde Naughty Dog prometen que es la que cierra las aventuras del conocido buscador de tesoros que se ha convertido en todo un abanderado de los exclusivos de consolas PlayStation. Con El Desenlace de un Ladrón se busca mejorar todo lo visto en la trilogía original de la serie Uncharted con el héroe en una situación límite una vez más que, en esta ocasión, incluye en un rol capital a su hermano Sam, una de las grandes novedades de la cuarta entrega y un punto de mucha importancia a la hora de ahondar en el fascinante pasado de este auténtico Indiana Jones de los videojuegos. Acción, aventuras y plataformas con ritmo cinematográfico de manos de los creadores de The Last of Us y Crash Bandicoot, entre muchos otros, que promete elevar el listón de espectacularidad de los juegos anteriores con un sinfín de escenas de ritmo trepidante dispuestas a llevarnos al límite en tiroteos, acrobacias y secuencias de plataformas. No faltan a su cita unos rompecabezas que pondrán a prueba nuestra capacidad para 'darle al coco', ni tampoco algunas ideas y mecánicas jugables nuevas como el hecho de que podemos escoger qué dice el héroe en algunos diálogos. " ,
+         "imagen" : "/img/Films/padrino.jpg" ,
+          "uds" : 7100 ,
+          "precio" : 59.95   ,
+           "rating" : 10.0
+          } 
+
+            ,
+
+          {
+          "titulo" : "Fight Club" ,
+          "descripcion" : "Recopilación para PlayStation 4 de los tres videojuegos de Uncharted protagonizados por Nathan Drake en PlayStation 3. Los juegos funcionan en PS4 a una resolución de 1080p y 60 imágenes por segundo, contando con mejoras de iluminación, texturas y modelado sobre los juegos originales. " ,
+         "imagen" : "/img/Films/lucha.jpg" ,
+          "uds" : 61 ,
+          "precio" : 44.95   ,
+           "rating" : 9.3
+          } 
+
+          ,
+
+          {
+          "titulo" : "GoodFellas" ,
+          "descripcion" : "Remasterización en 1080 y 60 frames por segundo de God of War 3, el juego original de PlayStation 3. Ambientado en la Grecia de la mitología clásica, el tercer capítulo de la saga God of War describe el ascenso de Kratos a las alturas del monte Olimpo en busca de una venganza, alimentada por el ardor de su ira contra los que le han traicionado. " ,
+          "imagen" : "/img/Films/unodinoi.jpg" ,
+          "uds" : 201 ,
+          "precio" : 34.95   ,
+           "rating" : 8.9
+          } 
+          
+       ] 
+
+
+ }
+
+
+
+
+
+
